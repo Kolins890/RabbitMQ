@@ -7,7 +7,6 @@
 
 <img width="1365" height="664" alt="image" src="https://github.com/user-attachments/assets/4b03aae9-2be7-491c-b83a-48f041e77adc" />
 
-
 Задание 2. Отправка и получение сообщений
 Используя приложенные скрипты, проведите тестовую отправку и получение сообщения. Для отправки сообщений необходимо запустить скрипт producer.py.
 
@@ -20,6 +19,7 @@ $ pip install pika
 
 <img width="1366" height="665" alt="image" src="https://github.com/user-attachments/assets/afd30083-a5c5-473e-bef4-7cb28feda116" />
 
+<img width="406" height="126" alt="image" src="https://github.com/user-attachments/assets/3ecceddc-e70e-44bf-bef1-e6c631eb6921" />
 
 Задание 3. Подготовка HA кластера
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ. Добавьте в файл hosts название и IP-адрес каждой машины, чтобы машины могли видеть друг друга по имени.
